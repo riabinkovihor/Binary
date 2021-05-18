@@ -1614,6 +1614,7 @@ footer {
 
 .portfolio {
   padding: 110px 0 60px;
+  overflow: hidden;
   background: #f3f3f3;
 }
 @media (max-width: 767.98px) {
